@@ -5,20 +5,37 @@
 [![IaC](https://img.shields.io/badge/IaC-Terraform%20%2B%20Ansible-5C4EE5)](IaC/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-D24939)](CICD/)
 
-A curated collection of my learning from the **Sparta Global Academy** — culminating in my role as a **Level 2 Support Engineer**.  
-It covers **Python fundamentals**, **AWS/cloud**, **Infrastructure as Code** (Terraform + Ansible), and a **Jenkins-driven CI/CD pipeline**.
+- A curated collection of some of my learning from the **Sparta Global Academy** — culminating in my role as a **Level 2 Support Engineer**.  
+- It covers **Python fundamentals**, **AWS/cloud**, **Infrastructure as Code** (Terraform + Ansible), and a **Jenkins-driven CI/CD pipeline**.
+- Please see separate repositories for work completed during my pre-assignment period, after completing my time at **Sparta Global Academty**.
 
 > Focus: reliable, supportable systems with clear docs, playbooks, and reproducible pipelines.
 
+- [Sparta Projects](#sparta-projects)
+  - [Repo Structure](#repo-structure)
+  - [Top 4 entry points](#top-4-entry-points)
+  - [Highlights by Area](#highlights-by-area)
+    - [Python](#python)
+    - [Cloud (AWS)](#cloud-aws)
+    - [Infrastructure as Code (Terraform \& Ansible)](#infrastructure-as-code-terraform--ansible)
+    - [CI/CD (Jenkins)](#cicd-jenkins)
+  - [End-to-End (Two-Tier App + CI/CD)](#end-to-end-two-tier-app--cicd)
+  - [How to Use This Repo](#how-to-use-this-repo)
+  - [About Me](#about-me)
+
 ## Repo Structure
 
+```
 spartaprojects/
-├─ python/                     # Scripts, exercises, OOP, small tasks
+├─ .idea/                      # Contains all the configuration files needed for my Sparta projects
+├─ CICD/                       # Jenkins notes, first-time setup, pipeline diagram
 ├─ Cloud/                      # AWS: VPCs, networks, S3, monitoring, autoscaling
 ├─ IaC/                        # Terraform + Ansible examples, two-tier app infra/config
-├─ CICD/                       # Jenkins notes, first-time setup, pipeline diagram
+├─ Python/                     # Scripts, exercises, OOP, small tasks
+├─ Python Boto 3/              # Contains my README file explaining what Python Boto 3 is, what I did for my project
+├─ .gitignore/                 # Contains a list of files that must not be added to GitHub
 └─ README.md                   # ← you are here 😄
-
+```
 
 ## Top 4 entry points
 
@@ -121,7 +138,7 @@ Diagrams & screenshots live under:
 
 ## About Me
 
-I’m **Lauren**, now a **Level 2 Support Engineer** (ex-primary teacher). I’ve been **investing in myself**, and I’m now looking to **add value and use all the skills I’ve learnt to date** in real-world teams.
+I’m **Lauren**, now a **Level 2 Support Engineer** (ex-primary teacher). I’ve been **investing in myself**, and I’ve started to **add value and use all the skills I’ve learnt to date** in real-world teams.
 
 - Focus areas: supportability, CI/CD, IaC, clear runbooks  
 - Connect:
