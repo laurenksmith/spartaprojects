@@ -7,7 +7,12 @@
 
 - A curated collection of some of my learning from the **Sparta Global Academy** — culminating in my role as a **Level 2 Support Engineer**.  
 - It covers **Python fundamentals**, **AWS/cloud**, **Infrastructure as Code** (Terraform + Ansible), and a **Jenkins-driven CI/CD pipeline**.
-- Please see separate repositories for work completed during my pre-assignment period, after completing my time at **Sparta Global Academty**.
+- Please see separate repositories for projects completed during my pre-assignment period, after completing my time at **Sparta Global Academy**.
+- Links to these project repositories:
+  - [Kubernetes App Deployment](https://github.com/laurenksmith/kubernetes-app-deployment)
+  - [Docker App Deployment](https://github.com/laurenksmith/docker-app-deployment)
+  - [Sparta App on Docker](https://github.com/laurenksmith/tech511-sparta-app-docker)
+  - [Library Java Spring Boot App](https://github.com/laurenksmith/library-project)
 
 > Focus: reliable, supportable systems with clear docs, playbooks, and reproducible pipelines.
 
