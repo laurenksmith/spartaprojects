@@ -17,7 +17,7 @@ spartaprojects/
 ├─ Cloud/                      # AWS: VPCs, networks, S3, monitoring, autoscaling
 ├─ IaC/                        # Terraform + Ansible examples, two-tier app infra/config
 ├─ CICD/                       # Jenkins notes, first-time setup, pipeline diagram
-└─ README.md                   # ← you are here
+└─ README.md                   # ← you are here 😄
 
 
 ## Top 4 entry points
@@ -124,5 +124,7 @@ Diagrams & screenshots live under:
 I’m **Lauren**, now a **Level 2 Support Engineer** (ex-primary teacher). I’ve been **investing in myself**, and I’m now looking to **add value and use all the skills I’ve learnt to date** in real-world teams.
 
 - Focus areas: supportability, CI/CD, IaC, clear runbooks  
-- Connect: *(add LinkedIn/GitHub links here)*
+- Connect:
+  - LinkedIn: [Lauren Copas](www.linkedin.com/in/laurenkimsmith)
+  - GitHub: [laurenksmith](https://github.com/laurenksmith)
 
